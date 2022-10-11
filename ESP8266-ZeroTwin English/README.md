@@ -48,7 +48,7 @@ Easy to modify, customize captive portal, and integration with 0.96 inch OLED<br
 </details>
 
 # About The Project
-![ZTBoot](images/ZTBoot.gif)
+![ZTBoot](../images/ZTBoot.gif)
 
 This project is a development of existing projects such as [ZiFi](https://github.com/sankethj/ZiFi), and [M1z23R](https://github.com/M1z23R/ESP8266-EvHere) with the addition of `0.96 inch OLED Display` integration, `RSSI` (received signal strength indication), several changes to `captive pages`, some fixing and adjustments to the `ESP8266 Boards Manager` to avoid `errors when deauthing`, and fixed other issues like the `captive portal not opening automatically`.
 
@@ -76,7 +76,7 @@ This tool utilizes the deauth attack, which is used to disconnect devices from t
 # Getting Started
 Here are some steps on how to compile this project and a guide for using it.
 
-Untuk intstruksi dalam Bahasa Indonesia silahkan [__buka halaman ini__]().
+Untuk intstruksi dalam Bahasa Indonesia silahkan [__buka halaman ini__](https://github.com/shinyxn/ZeroTwin/tree/master/ESP8266-ZeroTwin%20Indonesian).
 
 ## Prerequisites
 Here are the things you need to prepare:
@@ -102,7 +102,7 @@ Here are the things you need to prepare:
 
 ## Diagram
 
-![Diagram](images/Diagram.png)
+![Diagram](../images/Diagram.png)
 
 Or you can use the following table as a reference
 
