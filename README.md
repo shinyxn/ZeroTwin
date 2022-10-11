@@ -76,7 +76,7 @@ This tool utilizes the deauth attack, which is used to disconnect devices from t
 # Getting Started
 Here are some steps on how to compile this project and a guide for using it.
 
-Untuk intstruksi dalam Bahasa Indonesia silahkan [__buka halaman ini__]().
+Untuk intstruksi dalam Bahasa Indonesia silahkan [__buka halaman ini__](https://github.com/shinyxn/ZeroTwin/tree/master/ESP8266-ZeroTwin%20Indonesian).
 
 ## Prerequisites
 Here are the things you need to prepare:
