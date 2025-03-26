@@ -168,7 +168,7 @@ typedef struct
   String ssid;
   uint8_t ch;
   uint8_t bssid[6];
-  uint8_t rssi;
+  int8_t rssi;
 }  _Network;
 
 
